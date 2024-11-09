@@ -1,0 +1,24 @@
+h1{
+    color: red;
+}
+
+.navbar-cor-propria {
+    background-color: #4ab;
+}
+
+.mostrar-coluna {
+    border: 1px solid #480;
+    background-color: #dedede;    
+}
+
+@media (max-width: 900px) {
+    .navbar-cor-propria {
+        background-color: #c2ef4a;
+    }   
+}
+
+@media (max-width: 650px) {
+    .navbar-cor-propria {
+        background-color: #dadade;
+    }    
+}
