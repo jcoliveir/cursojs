@@ -1,0 +1,31 @@
+.carousel-caption {
+    background: rgba(0,0,0,0.5);
+}
+
+.differenca-navbar {
+    padding: 80px;
+}
+
+#depoimentos{
+    background: linear-gradient(900deg, #ffffff 0%, #ffbfc1 100%);
+}
+
+.formulario{
+    padding-top: 3%;
+    padding-left: 53%;
+    padding-right: 8%;
+    background: linear-gradient(900deg, #ffbfc1 0%, #f17795fd 100%);
+    width: 100%;
+    min-height: 70vh;
+}
+ .formulario button{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    border-radius: 14px;
+    border: 0;
+    padding: 8px;
+    cursor: pointer;
+ }
+ 
+
